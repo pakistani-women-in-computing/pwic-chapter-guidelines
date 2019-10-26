@@ -3,7 +3,7 @@ A local on-ground community - preferably covering a city (or in some cases, a ha
 
 Each local chapter is internally made up of a strong, committed and passionate team and team leader(s) with a community of people behind them. It should have a well-defined mission of their own, plus short term and long term goals and plans contributing to the broader vision of Pakistani Women in Computing (in some way).
 
-# pwic-chapter-guidelines
+# PWiC Chapter Guidelines
 Repository to describe in detail about the concept of local chapters in the Pakistani Women in Computing (PWiC) organization. Local chapter make up the very foundation of this organization and we deem them really crucial in the success of this organization’s future. Hence, it is really important to clearly define the guidelines, expectations and workflows especially as we plan to grow aggressively moving forward. 
 
 ## Why do we need these guidelines?
