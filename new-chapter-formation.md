@@ -4,7 +4,7 @@ Table of contents
 <!--ts-->
    * [Triggers for a new Chapter](#triggers-for-a-new-chapter)
    * [Kick off a new local Chapter](#kick-off-a-new-local-chapter)
-   * [How to form a new chapter: Guidelines & Handbook](#how-to-form-a-new-chapter:-guidelines-&-handbook)
+   * [How to form a new chapter: Guidelines & Handbook](#guidelines-to-form-a-new-chapter)
       * [Pre-Requisites](#pre-requisites)
       * [Chapter Lead Definition](#chapter-lead-definition)
         * [Requirements and Expectations](#requirements-and-expectations)
@@ -34,8 +34,8 @@ We go over the request and do a preliminary agreement that we are willing to mov
 
 Unless someone has a strong objection (which is then discussed over a call/on an email thread), we move forward with the request.
 
-How to form a new chapter: Guidelines & Handbook
-=================================================
+Guidelines to form a new Chapter
+================================
 This section describes in detail how to form a new chapter and meet all the prerequisites given below.
 
 Pre-Requisites
