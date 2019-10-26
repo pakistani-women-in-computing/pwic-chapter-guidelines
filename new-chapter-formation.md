@@ -26,7 +26,7 @@ A new local Chapter can be formed due to the following triggers:
 
 Kick off a new local Chapter
 ============================
-If any of the above trigger points are met, the potential Chapter lead needs to fill out the application form to initiate the process for new Chapter formation. As soon as the potential Chapter lead submits the response, it will be received and reviewed by:
+If any of the above trigger points are met, the potential Chapter lead needs to fill out the [application form](https://forms.gle/Zusq1BXwGV6gUXT77) to initiate the process for new Chapter formation. As soon as the potential Chapter lead submits the response, it will be received and reviewed by:
 * PWiC global chapter lead
 * President 
 
