@@ -1,0 +1,2 @@
+# pwic-chapter-guidelines
+Repository to describe in detail about the concept of local chapters in the Pakistani Women in Computing (PWiC) organization. Local chapter make up the very foundation of this organization and we deem them really crucial in the success of this organization’s future. Hence, it is really important to clearly define the guidelines, expectations and workflows especially as we plan to grow aggressively moving forward. 
