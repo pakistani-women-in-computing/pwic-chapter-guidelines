@@ -51,7 +51,7 @@ After informing the above pool, the process is officially set in motion and foll
 Chapter Lead Definition
 -----------------------
 As the name suggests, a Chapter lead is the person who is in charge of the organization, operations, management and leadership of a local chapter and community. Before a chapter can spin into action, a Chapter lead needs to be nominated. 
-Please refer to [a relative link](chapter-team-roles.md) for more details on this role.
+Please refer to the Chapter's [Team Roles Document](chapter-team-roles.md) for more details on this role.
 
 ### Trial Period
 There will be a 2-3 months trial period where the newly nominated Chapter lead will have certain responsibilities and expectations. 
@@ -65,7 +65,7 @@ Formation of a local team
 There are three main objectives for the Chapter Lead as soon as they are appointed in their role of leading a local chapter/community.
 
 ### Assembling the team
-It’s the responsibility of the Chapter lead to hire and get more people on the team as required. Please refer to [a relative link](chapter-team-roles.md) to look up the team roles required to be filled in for a chapter.
+It’s the responsibility of the Chapter lead to hire and get more people on the team as required. Please refer to the Chapter's [Team Roles Document](chapter-team-roles.md) to look up the team roles required to be filled in for a chapter.
 
 The local team can be hired by advertising open roles on social media (local Facebook pages and communities, using LinkedIn network, holding a social meetup etc)
 Here's the form that can be sent out, to those interested, for open roles: [link](https://docs.google.com/forms/d/1-QnbsbEF5Oc_W9_8J73bGzINp2JTnkDI7lucUNUmnbk/prefill)
