@@ -31,7 +31,7 @@ Chapter Lead
 ------------
 Chapter lead is the person who is in charge of the organization, operations, management and leadership of a local chapter and community. Before a chapter can spin into action, a Chapter lead needs to be nominated. 
 
-###Requirements & Expectations
+### Requirements & Expectations
 Ideally we look for the following skills and traits in a Chapter lead:
 
 **Must have(s):**
@@ -51,13 +51,13 @@ Ideally we look for the following skills and traits in a Chapter lead:
 
 As this is an organization representing women and underrepresented groups, we strongly prefer to have a representative from such a community is this position (unless there is a really valid exception), hence we are only accepting **Women with Pakistani background** for this role.
 
-__Note: It’s advised to the Chapter Lead to also appoint one of the leads below as a Co-Lead who can take charge in their absence.__
+___Note: It’s advised to the Chapter Lead to also appoint one of the leads below as a Co-Lead who can take charge in their absence.___
 
 Connect Lead
 ------------
 Responsible for Community outreach, organizing meetups, networking by PWiC or partnering with other organizations. Helps represent the PWiC Chapter to local community, and owns programs such as community building, networking events, social & cultural meet ups. Works with all leads to help PWiC Seattle to reach all local communities. 
 
-###Requirements & Expectations
+### Requirements & Expectations
 * Defines goals for the Chapter on how to connect the community in the area
 * Responsible for Community building
 * Initiates and organizes periodic social/ team networking on a defined frequency
@@ -71,7 +71,7 @@ Learning Lead
 -------------
 * Responsible for organizing (and conducting) technical workshops, talks and labs for technical learning - could be PWiC led or a partner event. Targets the students in the area, people wishing to enter the industry and/or professionals with their first job.
 
-###Requirements & Expectations
+### Requirements & Expectations
 * Based on the community needs, defining the plan for meeting the learning gaps.
 * Target Audience: High-school, international students, and professionals with first jobs
 * Identifying these needs, making a plan, and prioritizing which one to address first. 
@@ -82,7 +82,7 @@ Growth Lead
 -----------
 Responsible for Career development and professional growth and all such related events and initiatives for professionals. Owns various programs to support community needs, such as Mentorship, Navigating careers, Returnship, Career fairs etc. Growth Lead works closely with Learning Lead. Understands the community needs and help define strategy. Works with the global program lead to define initiatives. 
 
-###Requirements & Expectations
+### Requirements & Expectations
 * Accumulate resources.
 * Manages workshops for:
    * Mentorship
@@ -98,7 +98,7 @@ Responsible for Career development and professional growth and all such related 
  
 ROTATING ROLES
 ==============
-__There is no designated roles for these positions.__
+___There is no designated roles for these positions.___
 Each of the respective leads in team can take up the role or there can also be other external volunteers assigned to these roles temporarily. 
 
 Event Lead
@@ -106,7 +106,7 @@ Event Lead
 Each of the respective leads in team can take up the role of the Event Lead / Management. This gives everybody in the team to gain expertise and experience on organizing an event end-to-end from scratch. 
 They are the ones orchestrating and leading the event but they can assign responsibilities to everyone in the team.
 
-###Requirements & Expectations
+### Requirements & Expectations
 * Accountability for the following activities is required while taking up this role (they can still be assigned to various people on the team):
 * Logistics for the events
 * Finding space for event
