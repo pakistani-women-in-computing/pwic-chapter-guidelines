@@ -24,7 +24,7 @@ Table of contents
       * [Marketing and Content Lead](#merketing-and-content-lead)
 <!--te-->
 
-RECOMMENDED ROLES
+Recommended Roles
 =================
 
 Chapter Lead
@@ -96,7 +96,7 @@ Responsible for Career development and professional growth and all such related 
 * Helping with returnship programs
 * Measures and reports the success of this program.
  
-ROTATING ROLES
+Rotating Roles
 ==============
 ___There is no designated roles for these positions.___
 Each of the respective leads in team can take up the role or there can also be other external volunteers assigned to these roles temporarily. 
@@ -137,8 +137,8 @@ Design Lead
 * Team Members
 * Certificates
 
-OPTIONAL ROLES
-===============
+Optional Roles
+==============
 These roles can be created additionally based on the needs of the team and/or Chapter.
 Or can also be taken up by one of the existing leads.
 
