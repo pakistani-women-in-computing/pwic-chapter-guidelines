@@ -51,22 +51,7 @@ After informing the above pool, the process is officially set in motion and foll
 Chapter Lead Definition
 -----------------------
 As the name suggests, a Chapter lead is the person who is in charge of the organization, operations, management and leadership of a local chapter and community. Before a chapter can spin into action, a Chapter lead needs to be nominated. 
-### Requirements and Expectations
-Ideally we look for the following skills and traits in a Chapter lead:
-**Must have(s):**
-* Strong passion and commitment to serve the needs of a local community 
-* Stellar Mindset to lead and drive a team 
-* Great ideas and ambitions to build a team and community, and take the mission forward
-* Good communication and organizational skills 
-* Is a good role model i.e working in the tech / digital / STEM workforce and has nicely established personal goals
-* Is able to spend atleast 5-7 hours per week on the community needs
-**Bonus:**
-* Already has some leadership experience
-* Already has worked for some community building and volunteer causes in the past
-* Has a (strong) network and connections with the community they are a part of 
-
-As this is an organization representing women and underrepresented groups, we strongly prefer to have a representative from such a community is this position (unless there is a really valid exception). 
-
+Please refer to [a relative link](chapter-team-roles.md) for more details on this role.
 
 ### Trial Period
 There will be a 2-3 months trial period where the newly nominated Chapter lead will have certain responsibilities and expectations. 
@@ -80,11 +65,10 @@ Formation of a local team
 There are three main objectives for the Chapter Lead as soon as they are appointed in their role of leading a local chapter/community.
 
 ### Assembling the team
-It’s the responsibility of the Chapter lead to hire and get more people on the team as required. Following are the usual roles we fill in for a chapter (but these can vary as per the requirements of the chapter). 
-https://docs.google.com/document/d/11Z0Bm8Swds3FvtXyvA0JbWdDvdhDM4DhQKreZV4O00A/edit
+It’s the responsibility of the Chapter lead to hire and get more people on the team as required. Please refer to [a relative link](chapter-team-roles.md) to look up the team roles required to be filled in for a chapter.
 
 The local team can be hired by advertising open roles on social media (local Facebook pages and communities, using LinkedIn network, holding a social meetup etc)
-Example of a Facebook call-out: https://www.facebook.com/groups/pwic.global/permalink/2474552449487060/
+Here's the form that can be sent out, to those interested, for open roles: [link](https://docs.google.com/forms/d/1-QnbsbEF5Oc_W9_8J73bGzINp2JTnkDI7lucUNUmnbk/prefill)
 
 Go through the applications submitted , have discussions with the potential candidates and make the final decisions then.
 
@@ -95,11 +79,8 @@ There can be various ways of gauging the interest of the local community.
 ***How: By reaching out on local networks and social media***
 The Chapter lead can create polls and surveys on the local social media channels e.g. Facebook groups for Pakistani community in the city and gauge the interest of people. 
 
-Example of such a Facebook poll: 
-https://www.facebook.com/groups/1170173123005111/permalink/2189668017722278/
+Here's a community outreach form that can be used to gauge interest in your area and community - [link](https://docs.google.com/forms/d/1O9FuvfZFGkad5kmJoBRHh-Gc2eN9r961nE0yiRbHKUs/prefill)
 
-From the results of the survey, you can get some preliminary idea of your community.
-More details here: https://docs.google.com/document/d/1xyJ1u3R2Nu2v2Oz3vTMho1tzoXsPf4UscvhqegQeXIs/edit?ts=5daf0f54
 
 ### Understanding needs of the community
 It’s very important to gauge and define the biggest needs for your local community. Depending on the crowd you have in your local community, it could define you biggest focus areas. Examples:
@@ -111,11 +92,11 @@ It’s very important to gauge and define the biggest needs for your local commu
 **How: By holding a social meetup**
 From Step 2, you are already aware of the distribution of crowd in your community. You can hold a small gathering or social meetup at this point to introduce PWiC, attract more team members and understand their needs better. 
 
-More details on how to organize the first social meetup here: https://docs.google.com/document/d/1myNcuGrpstVGx1MVmyRh9ULWC0NsxdIzZzAIM6D5G0Y/edit#
+More details on how to organize the first social meetup here: https://docs.google.com/document/d/1myNcuGrpstVGx1MVmyRh9ULWC0NsxdIzZzAIM6D5G0Y
 Distribute a survey at the end of the meetup to ask specific questions around this.
 
 Formalizing the Chapter
 =======================
 Define the purpose (mission and vision) of your chapter
-Example: https://docs.google.com/document/d/1PmY8zeFeLNEWtMUp4LfTozFeIuHP3YO5k54hM7vRww0/edit
+Example: https://docs.google.com/document/d/1PmY8zeFeLNEWtMUp4LfTozFeIuHP3YO5k54hM7vRww0
 Define the short-term (quarterly) and long term (1-2 years) goals for your chapter
