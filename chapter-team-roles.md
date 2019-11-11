@@ -15,13 +15,13 @@ Table of contents
         * [Requirements and Expectations](#requirements-and-expectations)
       * [Growth Lead](#Growth-lead)
         * [Requirements and Expectations](#requirements-and-expectations)
+   * [Additional Roles](#additional-roles)
+      * [Marketing and Content Lead](#merketing-and-content-lead)
    * [Rotating Roles](#rotating-roles)
       * [Event Lead](#event-lead)
         * [Requirements and Expectations](#requirements-and-expectations)
       * [Volunteer Lead](#volunteer-lead)
       * [Design Lead](#design-lead)
-   * [Optional Roles](#optional-roles)
-      * [Marketing and Content Lead](#merketing-and-content-lead)
 <!--te-->
 
 Recommended Roles
@@ -95,6 +95,21 @@ Responsible for Career development and professional growth and all such related 
 * Holding career fairs with other companies etc.
 * Helping with returnship programs
 * Measures and reports the success of this program.
+
+Additional Roles
+================
+These roles can be created additionally based on the needs of the team and/or Chapter.
+Or can also be taken up by one of the existing leads.
+
+Marketing and Content Lead
+------------------------
+* Marketing the events
+* Marketing team activities
+* Working closely with other leads
+* Marketing partnerships, sponsors, news
+* Work with the design team to create flyers and marketing material
+* Writing and publishing Blog posts for the events (medium)
+
  
 Rotating Roles
 ==============
@@ -136,17 +151,3 @@ Design Lead
 * Announcements (Speakers/Mentors)
 * Team Members
 * Certificates
-
-Optional Roles
-==============
-These roles can be created additionally based on the needs of the team and/or Chapter.
-Or can also be taken up by one of the existing leads.
-
-Marketing and Content Lead
-------------------------
-* Marketing the events
-* Marketing team activities
-* Working closely with other leads
-* Marketing partnerships, sponsors, news
-* Work with the design team to create flyers and marketing material
-* Writing and publishing Blog posts for the events (medium)
